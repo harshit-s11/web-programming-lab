@@ -1,5 +1,11 @@
 # Web Programming Lab Solutions
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?style=for-the-badge&logo=github&logoColor=white)
+
 Repository containing my solutions for the **BCSE203E – Web Programming Lab** at **VIT Chennai**.
 
 These exercises cover the fundamentals of modern web development, progressing from HTML and CSS to JavaScript and introductory React.
